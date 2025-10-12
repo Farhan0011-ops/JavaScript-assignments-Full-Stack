@@ -1,1 +1,0 @@
-Points cover in module 1 & 2
